@@ -1,0 +1,12 @@
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  max-width: 1080px;
+}
+.title{
+  text-decoration: none;
+  color: #f7f7f7;
+}
